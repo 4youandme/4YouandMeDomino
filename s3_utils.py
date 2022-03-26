@@ -3,7 +3,6 @@ import pandas as pd
 import boto3
 import json
 import os
-import psycopg2
 import ast
 import csv
 import io
